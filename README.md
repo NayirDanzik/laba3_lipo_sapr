@@ -1,1 +1,1 @@
-# laba3_lipo_sapr
+TUSUR Project
